@@ -1,2 +1,2 @@
 # machine-learning
-Code samples from projects done as part of Analytics graduate degree program
+Code samples from machine learning projects done as part of Analytics graduate degree program
